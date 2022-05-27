@@ -1,0 +1,22 @@
+#regist {
+    padding-top: 0px;
+    padding-bottom: 25px;
+    background: #0D28A6;
+    color: white;
+    border-radius: 20px;
+}
+
+.regs_isi {
+    padding: 55px;
+}
+
+.regs_isi h1 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.regs_isi p {
+    text-align: center;
+    width: 550px;
+    margin-bottom: 30px;
+}
