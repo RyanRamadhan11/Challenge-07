@@ -23,3 +23,5 @@ perintah berikut diterminal
 ```
 yarn start 
 ```
+
+kemudian, ketika ingin filter cars (mulai sewa mobil) maka harus registrasi atau login terlebih dahulu.
