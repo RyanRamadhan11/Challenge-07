@@ -2,7 +2,7 @@ import React from 'react'
 
 function Whyus() {
     return (
-        <section className="why-use" id="whyuse">
+        <section className="why-use" id="whyus">
             <div className="container">
                 <div className="why-header">
                     <h2>Why Us?</h2>
