@@ -3,8 +3,27 @@ Challenge-07 Binar Academy
 
 * Langkah
 
-Pertama 
-install semua dependencies dengan menjalankan
+Pertama :
+
+install semua package dependencies dengan buka terminal dan masuk ke folder Backend dengan cara:
+
+```
+cd Backend
+```
+
+lalu ketik perintah berikut diterminal
+
+```
+npm install
+```
+
+setelah itu buka terminal baru dan masuk ke folder Frontend dengan cara:
+
+```
+cd Frontend
+```
+
+lalu ketik perintah berikut diterminal
 
 ```
 npm install
