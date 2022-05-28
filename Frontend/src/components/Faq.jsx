@@ -2,7 +2,7 @@ import React from 'react'
 
 function Faq() {
     return (
-        <section className="faq" id="faq-id">
+        <section className="faq" id="faq">
             <div className="container">
                 <div className="row">
                     <div className="faq-header col-lg-5">
