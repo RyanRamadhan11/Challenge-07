@@ -2,9 +2,9 @@ import React from 'react'
 import { Card, Container } from 'react-bootstrap'
 import styles from './style.module.css'
 
-import userIcon from '../../assets/cm-icon/fi_users.png'
-import settingsIcon from '../../assets/cm-icon/fi_settings.png'
-import calendarIcon from '../../assets/cm-icon/fi_calendar.png'
+import userIcon from '../../assets/icon_output_car/fi_users.png'
+import settingsIcon from '../../assets/icon_output_car/fi_settings.png'
+import calendarIcon from '../../assets/icon_output_car/fi_calendar.png'
 
 export default function Output_Cars({ car }) {
     return (

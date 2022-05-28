@@ -3,7 +3,7 @@ import React from 'react'
 import styles from './style.module.css'
 
 import img_service from '../../assets/img_full/img_service.png'
-import checklist from '../../assets/icon/checklist.png'
+import checklist from '../../assets/icon_whyus/checklist.png'
 
 import { Container } from 'react-bootstrap'
 

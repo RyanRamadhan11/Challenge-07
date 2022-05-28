@@ -2,11 +2,11 @@ import React from 'react'
 
 import styles from './style.module.css'
 
-import icon_fb from '../../assets/footer-icon/icon_facebook.png'
-import icon_ig from '../../assets/footer-icon/icon_instagram.png'
-import icon_twiter from '../../assets/footer-icon/icon_twitter.png'
-import icon_mail from '../../assets/footer-icon/icon_mail.png'
-import icon_twitc from '../../assets/footer-icon/icon_twitch.png'
+import icon_fb from '../../assets/icon_footer/icon_facebook.png'
+import icon_ig from '../../assets/icon_footer/icon_instagram.png'
+import icon_twiter from '../../assets/icon_footer/icon_twitter.png'
+import icon_mail from '../../assets/icon_footer/icon_mail.png'
+import icon_twitc from '../../assets/icon_footer/icon_twitch.png'
 
 import { Container } from 'react-bootstrap'
 

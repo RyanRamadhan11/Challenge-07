@@ -2,10 +2,10 @@ import React from 'react'
 
 import styles from './style.module.css'
 
-import img_price from '../../assets/icon/price.png'
-import img_hours from '../../assets/icon/24hrs.png'
-import img_thumbsUp from '../../assets/icon/thumbs-up.png'
-import img_professional from "../../assets/icon/professional.png"
+import img_price from '../../assets/icon_whyus/price.png'
+import img_hours from '../../assets/icon_whyus/24hrs.png'
+import img_thumbsUp from '../../assets/icon_whyus/thumbs-up.png'
+import img_professional from "../../assets/icon_whyus/professional.png"
 
 import { Container, Card } from 'react-bootstrap'
 
