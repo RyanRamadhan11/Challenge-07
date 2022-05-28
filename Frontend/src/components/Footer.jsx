@@ -22,11 +22,11 @@ function Footer() {
                         <ul className="list-unstyled">
                             <li className="mb-2"><a href="#services" className="text-decoration-none link-footer">Our
                                 services</a></li>
-                            <li className="mb-2"><a href="#whyuse" className="text-decoration-none link-footer">Why Us</a>
+                            <li className="mb-2"><a href="#whyus" className="text-decoration-none link-footer">Why Us</a>
                             </li>
                             <li className="mb-2"><a href="#testi" className="text-decoration-none link-footer">Testimonial</a>
                             </li>
-                            <li className="mb-2"><a href="#faq-id" className="text-decoration-none link-footer">FAQ</a></li>
+                            <li className="mb-2"><a href="#faq" className="text-decoration-none link-footer">FAQ</a></li>
                         </ul>
                     </div>
                     <div className="col-lg-4 mb-3">
