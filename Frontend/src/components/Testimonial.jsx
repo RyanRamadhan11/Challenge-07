@@ -64,7 +64,7 @@ function Testimonial() {
                                                     natural lead-in to additional content. This content is a little bit
                                                     longer.</q>
                                             </p>
-                                            <h5 class="card-title">Putri, Jakarta</h5>
+                                            <h5 class="card-title">John Dee 32, Bromo</h5>
                                         </div>
                                     </div>
                                 </div>
@@ -91,7 +91,7 @@ function Testimonial() {
                                                     natural lead-in to additional content. This content is a little bit
                                                     longer.</q>
                                             </p>
-                                            <h5 class="card-title">Joni, Bandung</h5>
+                                            <h5 class="card-title">John Dee 32, Bromo</h5>
                                         </div>
                                     </div>
                                 </div>
@@ -118,7 +118,7 @@ function Testimonial() {
                                                     natural lead-in to additional content. This content is a little bit
                                                     longer.</q>
                                             </p>
-                                            <h5 class="card-title">Hasan, Purwakarta</h5>
+                                            <h5 class="card-title">John Dee 32, Bromo</h5>
                                         </div>
                                     </div>
                                 </div>
@@ -145,7 +145,7 @@ function Testimonial() {
                                                     natural lead-in to additional content. This content is a little bit
                                                     longer.</q>
                                             </p>
-                                            <h5 class="card-title">Iqbal, Purwakarta</h5>
+                                            <h5 class="card-title">John Dee 32, Bromo</h5>
                                         </div>
                                     </div>
                                 </div>
