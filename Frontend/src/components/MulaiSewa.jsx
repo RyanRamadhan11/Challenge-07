@@ -1,17 +1,16 @@
 import React from 'react'
 import { Link } from "react-router-dom";
-//import component Bootstrap React
+
 import { Nav } from 'react-bootstrap';
 const andd = "&";
-// import { Link } from "react-router-dom";
-//import component Bootstrap React
 
 
-function Hero() {
+
+function MulaiSewa() {
     return (
-        <section className="hero">
+        <section className="mulai-sewa">
             <div className="container">
-                <div className="row hero-row">
+                <div className="row mulai-sewa-row">
                     <div className="col-12 col-lg-6 col-md-12">
                         <h1>
                             Sewa {andd} Rental Mobil Terbaik di kawasan (Lokasimu)
@@ -22,7 +21,7 @@ function Hero() {
                         <Nav.Link as={Link} to="/cars" className="nav-item-btn">Mulai Sewa Mobil</Nav.Link>
                     </div>
                     <div className="col-12 col-lg-6 col-md-12">
-                        <img src="asset/gambar/img_car.png" alt="car hero" className="img-fluid"></img>
+                        <img src="asset/gambar/img_car.png" alt="car mulai-sewa" className="img-fluid"></img>
                     </div>
                 </div>
             </div>
@@ -30,4 +29,4 @@ function Hero() {
     )
 }
 
-export default Hero
+export default MulaiSewa

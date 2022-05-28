@@ -4,7 +4,7 @@
     font-family: Helvetica, sans-serif;
 }
 
-/* ************* FORMAT TEXT & BUTTON ************* */
+/* FORMAT TEXT & BUTTON */
 h1 {
     font-size: 36px;
     line-height: 50px;
@@ -44,28 +44,32 @@ p {
     color: #FFFFFF;
 }
 
-/* ************* .FORMAT TEXT & BUTTON************* */
+/* FORMAT TEXT & BUTTON */
 
-.btn-form-cari{
+.btn-form-cari {
     color: white !important;
     border: 1px solid #409b43;
 }
+
 .btn-form-cari:focus {
     color: white !important;
     background-color: #409b43;
     border: 1px solid #409b43;
 }
-#dropdown-basic-button{
+
+#dropdown-basic-button {
     color: white !important;
-    background-color:#409b43 ;
+    background-color: #409b43;
     border: 1px solid #409b43 !important;
 }
+
 .btn-form {
     color: white !important;
     background-color: #409b43 !important;
     border: 1px solid #409b43 !important;
 }
-/* ************* NAVBAR ************* */
+
+/* NAVBAR */
 .bg-abu {
     background: #F1F3FF;
 }
@@ -86,35 +90,34 @@ p {
     color: white !important;
 }
 
-/* ************* .NAVBAR ************* */
+/* NAVBAR */
 
-/* ************* HERO ************* */
-.hero {
+/* MulaiSewa */
+.mulai-sewa {
     background: #F1F3FF;
     padding-bottom: 7rem;
     position: relative;
 }
 
-.hero p {
+.mulai-sewa p {
     margin-bottom: 10px;
     width: 80%;
 }
 
-.hero h1 {
+.mulai-sewa h1 {
     padding-top: 95px;
 }
 
-.hero img {
+.mulai-sewa img {
     position: absolute;
     right: 0;
-    /* top: 30px; */
-    /* max-width: 704px; */
+
 }
 
-/* ************* .HERO ************* */
+/* Mulai Sewa */
 
 
-/* ************* SERVICES ************* */
+/* SERVICES */
 .our-services {
     margin-top: 100px;
 }
@@ -137,10 +140,10 @@ p {
     margin-bottom: 10px;
 }
 
-/* ************* .SERVICES ************* */
+/* SERVICES */
 
 
-/* ************* WHY USE************* */
+/* WHY USE */
 .why-use {
     margin-top: 100px;
 }
@@ -169,9 +172,9 @@ p {
     width: 90%;
 }
 
-/* ************* .WHY USE************* */
+/* WHY USE */
 
-/* ************* TESTIMONIAL ************* */
+/* TESTIMONIAL */
 .testimonial {
     margin-top: 100px;
 }
@@ -217,10 +220,10 @@ p {
     line-height: 20px;
 }
 
-/* ************* .TESTIMONIAL ************* */
+/* TESTIMONIAL */
 
 
-/* ************* ABOUT ************* */
+/* ABOUT */
 .about {
     margin-top: 100px;
 }
@@ -249,10 +252,10 @@ p {
     margin-bottom: 50px;
 }
 
-/* ************* .ABOUT ************* */
+/* ABOUT */
 
 
-/* ************* FAQ************* */
+/* FAQ */
 .faq {
     margin-top: 100px;
     margin-bottom: 100px;
@@ -279,10 +282,10 @@ p {
     letter-spacing: 0em;
 }
 
-/* ************* .FAQ************* */
+/* FAQ */
 
 
-/* ************* FOOTER ************* */
+/* FOOTER */
 footer a {
     font-size: 14px;
 }
@@ -299,9 +302,9 @@ footer .link-footer:hover {
     color: blue;
 }
 
-/* ************* .FOOTER ************* */
+/* FOOTER */
 
-/* ************* Custom Carousel nav ************* */
+/* Custom Carousel */
 .btn-nav {
     height: 32px;
     line-height: 28px;
@@ -329,9 +332,9 @@ footer .link-footer:hover {
 
 }
 
-/* *************. Custom Carousel nav ************* */
+/* Custom Carousel nav */
 
-/* ************* CARS FILTER ************* */
+/*  CARS FILTER */
 
 .cars-filter {
     position: relative;
@@ -373,10 +376,6 @@ select:focus>option:checked {
 }
 
 
-
-/* .container-mobil {
-    padding: 27px 84px;
-} */
 
 .card-mobil {
     padding: 24px;
@@ -428,7 +427,6 @@ select:focus>option:checked {
 }
 
 
-
 .select2 {
     -webkit-appearance: none;
     -moz-appearance: none;
@@ -448,37 +446,36 @@ select:focus>option:checked {
 
 
 
-/* *************. CARS FILTER ************* */
+/* CARS FILTER */
 
-/* ======================================================================================================= */
 
 
 /* `sm` applies to x-small devices (portrait phones, less than 576px) */
 @media (max-width: 575.98px) {
 
-    /* ************* HERO ************* */
-    .hero {
+    /*  Mulai Sewa */
+    .mulai-sewa {
         background: #F1F3FF;
         padding-bottom: 0rem;
         position: unset;
     }
 
-    .hero p {
+    .mulai-sewa p {
         width: 100%;
     }
 
-    .hero h1 {
+    .mulai-sewa h1 {
         padding-top: 20px;
     }
 
-    .hero img {
+    .mulai-sewa img {
         position: unset;
         right: 0;
         top: 0px;
-        /* padding-top: 30px; */
+
     }
 
-    /* *************. HERO ************* */
+    /* Mulai Sewa */
 
 }
 
@@ -486,24 +483,23 @@ select:focus>option:checked {
 /* `md` applies to small devices (landscape phones, less than 768px) */
 @media (max-width: 767.98px) {
 
-    /* ************* HERO ************* */
-    .hero p {
+    /* Mulai Sewa */
+    .mulai-sewa p {
         width: 100%;
     }
 
-    .hero h1 {
+    .mulai-sewa h1 {
         width: 100%;
     }
 
-    /* *************. HERO ************* */
+    /* Mulai Sewa */
 
 }
-
 
 /* `lg` applies to medium devices (tablets, less than 992px) */
 @media (max-width : 992px) {
 
-    /* ************* NAVBAR ************* */
+    /* NAVBAR */
     .offcanvas {
         width: 250px !important;
         background-color: white;
@@ -544,10 +540,10 @@ select:focus>option:checked {
         border: none;
     }
 
-    /* *************. NAVBAR ************* */
+    /* NAVBAR */
 
-    /* ************* HERO ************* */
-    .hero {
+    /* Mulai Sewa */
+    .mulai-sewa {
         background: #F1F3FF;
         padding-bottom: 0rem;
         padding-top: 60px;
@@ -555,26 +551,26 @@ select:focus>option:checked {
     }
 
 
-    .hero h1 {
+    .mulai-sewa h1 {
         padding-top: 20px;
     }
 
-    .hero img {
+    .mulai-sewa img {
         position: relative;
         right: 0;
         padding-top: 30px;
         width: 100%;
     }
 
-    /* *************. HERO ************* */
+    /* Mulai Sewa */
 
 
-    /* ************* OUR SERVICES ************* */
+    /* OUR SERVICES */
     .our-services .ilustrasi-services {
         margin-bottom: 2rem;
     }
 
-    /* ************* OUR SERVICES ************* */
+    /* OUR SERVICES */
 
 
     .why-use .why-header {
@@ -605,21 +601,21 @@ select:focus>option:checked {
 /* // Large devices (desktops, 992px and up) */
 @media (min-width: 992px) {
 
-    /* ************* HERO ************* */
-    .hero {
+    /* Mulai Sewa */
+    .mulai-sewa {
         padding-bottom: 3rem;
         position: relative;
     }
 
-    .hero img {
+    .mulai-sewa img {
         position: absolute;
         top: 15%;
         max-width: 540px;
     }
 
-    /* ************* .HERO ************* */
+    /* Mulai Sewa */
 
-    /* ************* NAVBAR ************* */
+    /* NAVBAR */
     .offcanvas {
         visibility: visible;
         position: relative;
@@ -629,21 +625,21 @@ select:focus>option:checked {
         color: #000000;
     }
 
-    /* *************. NAVBAR ************* */
+    /* NAVBAR */
 }
 
 /* // X-Large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) {
 
-    /* ************* HERO ************* */
-    .hero {
+    /* Mulai Sewa */
+    .mulai-sewa {
         padding-bottom: 9rem;
     }
 
-    .hero img {
+    .mulai-sewa img {
         max-width: 704px;
         top: 60px;
     }
 
-    /* ************* .HERO ************* */
+    /* Mulai Sewa */
 }
