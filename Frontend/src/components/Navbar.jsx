@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-//import component Bootstrap React
+
 import { Nav, DropdownButton, Dropdown } from 'react-bootstrap';
 
 import React, { useEffect } from "react";
@@ -47,19 +47,19 @@ function Navbar() {
                         <ul className="navbar-nav ms-auto">
                             <li className="nav-item">
 
-                                <Nav.Link as={Link} to="/" className="nav-link">Our Services</Nav.Link>
+                                <Nav.Link href="#services" className="nav-link">Our Services</Nav.Link>
                             </li>
                             <li className="nav-item">
 
-                                <Nav.Link as={Link} to="/" className="nav-link">Why Us</Nav.Link>
+                                <Nav.Link href="#whyus" className="nav-link">Why Us</Nav.Link>
                             </li>
                             <li className="nav-item">
 
-                                <Nav.Link as={Link} to="/" className="nav-link">Testimonial</Nav.Link>
+                                <Nav.Link href="#testi" className="nav-link">Testimonial</Nav.Link>
                             </li>
                             <li className="nav-item">
 
-                                <Nav.Link as={Link} to="/" className="nav-link">FAQ</Nav.Link>
+                                <Nav.Link href="#faq" className="nav-link">FAQ</Nav.Link>
                             </li>
                             {!isAuthenticated ? (
                                 <Nav.Link as={Link} to="/register" className="btn nav-item-btn ms-3 text-white">Register</Nav.Link>
